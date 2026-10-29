@@ -1,6 +1,6 @@
-# Maison — Considered Interiors
+# ADANKI — Considered Interiors
 
-Maison is a frontend-only interior design storefront concept with a quiet-luxury visual style: warm ivory surfaces, charcoal typography, muted brass accents, Cormorant Garamond headings, and Jost body text.
+ADANKI is a frontend-only interior design storefront concept with a quiet-luxury visual style: warm ivory surfaces, charcoal typography, muted brass accents, Cormorant Garamond headings, and Jost body text.
 
 The site includes a Home page with editorial content, services, featured products, process steps, statistics, testimonials, and a call to action; and a Products page with a product catalogue, static category chips, and a visual search field. Product and page-section content is stored locally in JavaScript data files. There is no backend: the newsletter form is a UI demonstration and does not send or store addresses.
 
@@ -94,7 +94,7 @@ npm run lint
      ```bash
      git init -b main
      git add .
-     git commit -m "Initial Maison interiors site"
+     git commit -m "Initial ADANKI interiors site"
      git remote add origin https://github.com/<username>/<repository>.git
      git push -u origin main
      ```
