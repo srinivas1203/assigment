@@ -1,0 +1,27 @@
+:root {
+  --color-ivory: #f6f3ed;
+  --color-paper: #fbf9f5;
+  --color-charcoal: #292824;
+  --color-charcoal-soft: #5d5a53;
+  --color-brass: #9c8052;
+  --color-border: #ded9cf;
+
+  --font-heading: 'Cormorant Garamond', serif;
+  --font-body: 'Jost', sans-serif;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+
+  --text-xs: clamp(0.75rem, 0.7rem + 0.2vw, 0.875rem);
+  --text-sm: clamp(0.875rem, 0.82rem + 0.2vw, 1rem);
+  --text-base: clamp(1rem, 0.94rem + 0.25vw, 1.125rem);
+  --text-lg: clamp(1.25rem, 1.1rem + 0.6vw, 1.625rem);
+  --text-xl: clamp(1.75rem, 1.35rem + 1.6vw, 2.75rem);
+  --text-2xl: clamp(2.5rem, 1.7rem + 3.2vw, 4.5rem);
+
+  --content-width: 80rem;
+}
